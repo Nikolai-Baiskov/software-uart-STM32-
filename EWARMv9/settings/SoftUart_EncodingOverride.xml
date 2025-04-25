@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\IAR_ARM_PROJECTS\stm32vldiscovery_package\Project\Examples\0TestForOzzyLogic\Level2_SoftUart\L2_SoftUart.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IAR_ARM_PROJECTS\stm32vldiscovery_package\Project\Examples\0TestForOzzyLogic\Level2_SoftUart\L2_SoftUart.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IAR_ARM_PROJECTS\stm32vldiscovery_package\Project\Examples\0TestForOzzyLogic\Level2_SoftUart\ring_buffer.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IAR_ARM_PROJECTS\stm32vldiscovery_package\Project\Examples\0TestForOzzyLogic\Level2_SoftUart\ring_buffer.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\IAR_ARM_PROJECTS\stm32vldiscovery_package\Project\Examples\0TestForOzzyLogic\main.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+</userOverrides>

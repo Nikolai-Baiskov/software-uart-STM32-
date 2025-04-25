@@ -1,0 +1,26 @@
+# ninja log v5
+5	150	7673031840000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/CMSIS/system_stm32f10x.xcl	1923b6908dd3b436
+1	169	7673031840000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/stm32f10x_gpio.xcl	86c38ca0c7b96685
+12	188	7673031840000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level2_SoftUart/L2_SoftUart.xcl	e2c6a5da55f59c80
+9	208	7673031840000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/misc.xcl	4ca998c28f599f57
+167	344	7673031850000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/stm32f10x_tim.xcl	cc74f6aab29c8272
+205	364	7673031850000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/main.xcl	f45cd0d8aea79558
+185	383	7673031850000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level2_SoftUart/ring_buffer.xcl	faad05323ebe6b56
+403	443	7673031851048224	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/main.pbi	cfb319f1817fc455
+225	497	7673031851673240	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/CMSIS/system_stm32f10x.pbi	c64b91164c3f712c
+361	519	7673031850000000	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/stm32f10x_rcc.xcl	daf3dd0dd11511bf
+381	588	7673031852610770	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/stm32f10x_tim.pbi	a2b25d127e1356dd
+595	637	7673031853079470	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level2_SoftUart/ring_buffer.pbi	68b3851ec72b253e
+449	648	7673031853235771	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level2_SoftUart/L2_SoftUart.pbi	8ebeee62130acac9
+504	664	7673031853391995	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/stm32f10x_gpio.pbi	e36c467b7b44da64
+656	671	7673031853391995	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart_part2.pbi	7ab69dc5b779eeef
+536	694	7673031853704965	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/stm32f10x_rcc.pbi	765cb1f8d1c3780d
+701	815	7673031854798238	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart_part1.pbi	c735d4f5c3779865
+644	871	7673031855423552	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/Level1_StdPeriph_Driver/misc.pbi	7e08950e1509aca6
+881	975	7673031856361080	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart_part0.pbi	5279d9ebdc1eb2d3
+986	1059	7673031857298298	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart.pbd	277f9a632aaa8b3b
+1069	1885	7673031865229481	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart.pbw	baac51a74d7d592b
+2	33	7673031966964862	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/main.pbi	cfb319f1817fc455
+41	54	7673031967121109	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart_part2.pbi	7ab69dc5b779eeef
+63	134	7673031968059117	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart.pbd	277f9a632aaa8b3b
+144	984	7673031976252599	D:/IAR_ARM_PROJECTS/stm32vldiscovery_package/Project/Examples/software_uart_stm32/EWARMv9/Debug/BrowseInfo/SoftUart.pbw	baac51a74d7d592b

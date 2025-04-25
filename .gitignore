@@ -1,0 +1,14 @@
+# IAR temporary files
+*.dep
+*.ewd
+*.ewt
+*.bak
+*.obj
+*.lst
+*.map
+*.hex
+*.bin
+
+# Output directories
+/Debug/
+/Release/
